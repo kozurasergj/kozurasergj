@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Kozyura
 ======================================================================================================================================
 
-Junior Frontend Developer
+Frontend Developer
 -------------------------
 
 I am a responsible and hardworking IT specialist who can work well both in a team environment and on my own initiative. I am looking for a Junior Front-End developer position, a position where I can develop as a specialist and benefit my team.
