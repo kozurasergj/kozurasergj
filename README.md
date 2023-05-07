@@ -8,7 +8,7 @@ Frontend Developer
 I am a responsible and hardworking IT specialist who can work well both in a team environment and on my own initiative. I am looking for a Junior Front-End developer position, a position where I can develop as a specialist and benefit my team.
 
 * 🌍  I'm based in Kyiv Ukraine
-* 🖥️  See my CV at [.......](https://drive.google.com/file/d/1UOrHyIBKXCZ5hxoCbHqop86E9axz1xib/view?usp=share_link)
+* 🖥️  See my CV at [.......](https://drive.google.com/file/d/1ZtIckzvRilsQWG5TTGf6ZivzFEjlFAy7/view?usp=share_link)
 * ✉️  You can contact me at [kozura.sergj33@gmail.com](mailto:kozura.sergj33@gmail.com)
 
 ### Skills 
