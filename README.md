@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 -------------------------
 
-I am a responsible and hardworking IT specialist who can work well both in a team environment and on my own initiative. I am looking for a Junior Front-End developer position, a position where I can develop as a specialist and benefit my team.
+I am a responsible and hardworking IT specialist who can work well both in a team environment and on my own initiative. I am looking for Front-End developer position, a position where I can develop as a specialist and benefit my team.
 
 * 🌍  I'm based in Kyiv Ukraine
 * 🖥️  See my CV at [.......](https://drive.google.com/file/d/1jn74IazMWaAJrPwNftlETDMlY7Ps0lgI/view?usp=share_link)
