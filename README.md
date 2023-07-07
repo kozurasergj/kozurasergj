@@ -11,7 +11,7 @@ I am a Front-End developer looking for a permanent position in companies with a 
 I have experience working in a team, as well as managing a team at a high-intensity pace of work. I am a fast learner, responsible and ready to tackle complex problems.🚀🚀🚀
 
 
-* 🖥️  See my CV at [.......](https://drive.google.com/file/d/10S1ZFvNBeDl0Bd4HJSesaYdGx0yuwZL0/view?usp=sharing)
+* 🖥️  See my CV at [.......](https://drive.google.com/file/d/1l98CVBo6hLMalZQoLw2bvkhuzpHwEXyL/view?usp=sharing)
 * ✉️  You can contact me at [kozura.sergj33@gmail.com](mailto:kozura.sergj33@gmail.com)
 
 
