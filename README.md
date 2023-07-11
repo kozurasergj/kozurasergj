@@ -13,10 +13,3 @@ I have experience working in a team, as well as managing a team at a high-intens
 
 * 🖥️  See my CV at [.......](https://drive.google.com/file/d/1l98CVBo6hLMalZQoLw2bvkhuzpHwEXyL/view?usp=sharing)
 * ✉️  You can contact me at [kozura.sergj33@gmail.com](mailto:kozura.sergj33@gmail.com)
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kozurasergj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/serhey-kozyura-008339246" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
