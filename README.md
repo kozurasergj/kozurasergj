@@ -8,6 +8,6 @@ Frontend Developer
 Hello everyone! 👋 
 
 I am a front-end developer looking for a permanent position in a company with a friendly team and interesting projects.
-I have experience of working in a team and managing a team at a high pace. I am a fast learner, responsible and willing to tackle complex roblems.🚀🚀🚀
+I have experience of working in a team and managing a team at a high pace. I am a fast learner, responsible and willing to tackle complex roblems 🚀🚀🚀
 
 * ✉️  You can contact me at [kozura.sergj33@gmail.com](mailto:kozura.sergj33@gmail.com)
