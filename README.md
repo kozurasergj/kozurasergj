@@ -7,6 +7,6 @@ Frontend Developer
 
 Hello everyone! 👋 
 
-👋 I am a dedicated front-end developer with a strong foundation in JavaScript, React, and Next. My expertise lies in creating intuitive and visually appealing user interfaces that enhance the overall user experience 🚀🚀🚀
+👋  I am a dedicated front-end developer with strong expertise in JavaScript, React, and Next.js. I specialize in creating intuitive and visually appealing user interfaces. Additionally, I have experience developing full-stack applications 🚀🚀🚀
 
 * ✉️  You can contact me at [kozura.sergj33@gmail.com](mailto:kozura.sergj33@gmail.com)
